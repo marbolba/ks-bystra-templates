@@ -1,0 +1,16 @@
+{
+  "name": "ks-bystra-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'starting service';",
+    "start": "http-server -p 8080 --cors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "14.1.1"
+  }
+}
